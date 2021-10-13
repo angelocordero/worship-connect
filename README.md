@@ -30,10 +30,10 @@
 
 ### For suggestions, issues, bug reports, and feedback
 
-Please see issues page
+Please see [issues](https://github.com/angelocordero/worship-connect/issues) page
 
 or
 
 Contact me at
 
-### pm lng danay sa fb ah hahaha
+[messenger](https://m.me/johnangelocordero12)
