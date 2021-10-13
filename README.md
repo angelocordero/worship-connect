@@ -6,7 +6,7 @@
 
 ### Current Version
 
-0.1.0-testing
+0.1.0-beta
 
 <br/>
 
@@ -14,13 +14,17 @@
 
 1. Add announcements
 2. Add schedules and songs with links to YouTube
+3. Create and join teams
 
 <br/>
 
 ### Features / fixes in development
 
-1. Settings page
-2. Dark mode
+1. Improve visual design
+2. Settings page
+3. Dark mode
+4. Admin functionality
+5. Delete and edit schedules
 
 <br/>
 
@@ -31,3 +35,5 @@ Please see issues page
 or
 
 Contact me at
+
+### pm lng danay sa fb ah hahaha
