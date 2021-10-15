@@ -23,8 +23,7 @@
 1. Improve visual design
 2. Settings page
 3. Dark mode
-4. Admin functionality
-5. Delete and edit schedules
+4. Delete and edit schedules
 
 <br/>
 
