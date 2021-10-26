@@ -33,7 +33,9 @@ Please see [issues](https://github.com/angelocordero/worship-connect/issues) pag
 
 or
 
+
 Contact me at
 
 messenger: [johnangelocordero12](https://m.me/johnangelocordero12)
+
 email: angelocordero061619@gmail.com
