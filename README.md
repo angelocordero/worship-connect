@@ -35,4 +35,5 @@ or
 
 Contact me at
 
-[messenger](https://m.me/johnangelocordero12)
+messenger: [johnangelocordero12](https://m.me/johnangelocordero12)
+email: angelocordero061619@gmail.com
