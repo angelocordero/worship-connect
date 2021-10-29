@@ -10,6 +10,12 @@
 
 <br/>
 
+### To join beta testing
+
+[click here and follow the instructions](https://appdistribution.firebase.dev/i/0682df2514c4daf8)
+
+<br/>
+
 ### Current features
 
 1. Add announcements
