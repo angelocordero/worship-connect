@@ -21,6 +21,7 @@
 1. Add announcements
 2. Add schedules and songs with links to YouTube
 3. Create and join teams
+4. Dark theme
 
 <br/>
 
@@ -28,8 +29,7 @@
 
 1. Improve visual design
 2. Settings page
-3. Dark mode
-4. Delete and edit schedules
+3. Delete and edit schedules
 
 <br/>
 
