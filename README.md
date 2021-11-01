@@ -28,7 +28,6 @@
 ### Features / fixes in development
 
 1. Improve visual design
-2. Settings page
 3. Delete and edit schedules
 
 <br/>
