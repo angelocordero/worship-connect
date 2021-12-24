@@ -6,7 +6,7 @@
 
 ### Current Version
 
-0.1.1-beta
+0.1.2-beta
 
 <br/>
 
