@@ -6,7 +6,7 @@
 
 ### Current Version
 
-0.1.2-beta
+0.1.3-beta
 
 <br/>
 
@@ -22,13 +22,14 @@
 2. Add schedules and songs with links to YouTube
 3. Create and join teams
 4. Dark theme
+5. assign team members for specific instruments
 
 <br/>
 
 ### Features / fixes in development
 
 1. Improve visual design
-3. Delete and edit schedules
+2. Improve sign in and welcome navigation
 
 <br/>
 
