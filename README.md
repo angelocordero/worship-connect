@@ -18,11 +18,11 @@
 
 ### Current features
 
-1. Add announcements
-2. Add schedules and songs with links to YouTube
-3. Create and join teams
-4. Dark theme
-5. assign team members for specific instruments
+1. Create and join teams
+2. Add announcements
+3. Add schedules and songs with song links
+4. Assign team members for specific instruments
+5. Assign team admins to help manage the team
 
 <br/>
 
