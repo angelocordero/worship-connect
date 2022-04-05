@@ -12,7 +12,7 @@
 
 ### To join beta testing
 
-[click here and follow the instructions](https://appdistribution.firebase.dev/i/c568c5d6699800c4)
+[click here and follow the instructions](https://appdistribution.firebase.dev/i/7a42a716803140b3)
 
 <br/>
 
